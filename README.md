@@ -102,11 +102,3 @@ Category Variables: The pie chart of 'ContentRating' revealed a high prevalence 
 
 Overall, the EDA provided useful insights into the Google Play Store dataset, allowing us to better understand the distribution of app features, their correlations, and trends over time. This study lays the groundwork for more sophisticated modelling and strategic decisions on app development and marketing tactics.
 
-
-
-
-
-
-# here change for git hub practice 
-print("code executed successfully")
-auttho - chaitali jain
